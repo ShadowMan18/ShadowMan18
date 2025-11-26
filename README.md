@@ -27,7 +27,7 @@ This is **Shadman Sami Shanon**, **CSE Freshman** at **Bangladesh University of 
   <a href="https://www.linkedin.com/in/shadman-sami-shanon/" target="_blank" style="margin-right: 10px;" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Shadman Sami Shanon -blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="22"/>
   </a>
-  <a href="https://www.facebook.com/Shadman Sami Shanon" target="_blank" style="margin-right: 10px;" title="Facebook">
+  <a href="https://www.facebook.com/shadman.sami.shanon" target="_blank" style="margin-right: 10px;" title="Facebook">
     <img src="https://img.shields.io/badge/Facebook-Shadman Sami Shanon-blue?style=flat-square&logo=facebook" alt="Facebook" height="22"/>
   </a>
   <a href="https://codeforces.com/profile/.ShadowMan." target="_blank" title="Codeforces">
