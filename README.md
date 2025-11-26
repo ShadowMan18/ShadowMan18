@@ -3,7 +3,7 @@
 -->
 
 # Hey Everyone!
-This is **Shadman Sami Shanon**, **CSE Freshman** at **Bangladesh University of Engineering and Technology (BUET)**.
+It's ShadowMan, an undergraduate student in CSE at Bangladesh University of Engineering and Technology (BUET) having keen interest in maths, programming, AI, ML, robotics and bioinformatics.
 
 ## Profile Overview
 
