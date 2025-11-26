@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=ShadowMan18&color=brightgreen)
 -->
 
-# Hey The Sailors of Tech Sea
+# Hey The Sailors of Tech Sea!
 It's ShadowMan, an undergraduate student in CSE at Bangladesh University of Engineering and Technology (BUET) having keen interest in maths, programming, AI, ML, robotics and bioinformatics.
 
 ## Profile Overview
