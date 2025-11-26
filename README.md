@@ -3,7 +3,7 @@
 -->
 
 # Hey The Sailors of Tech Sea!
-It's ShadowMan, an undergraduate student in CSE at Bangladesh University of Engineering and Technology (BUET) having keen interest in maths, programming, AI, ML, robotics and bioinformatics.
+It's ShadowMan, an undergraduate student in CSE at Bangladesh University of Engineering and Technology (BUET) having keen interest in maths, programming, AI, ML, robotics and bioinformatics. I am interested in collaborative research work. If you are insterested, please have a look into my profile. Thanks for visiting!
 
 ## Profile Overview
 
