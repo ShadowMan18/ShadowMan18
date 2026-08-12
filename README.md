@@ -30,7 +30,7 @@ It's Shanon, an undergraduate student in CSE at Bangladesh University of Enginee
   <a href="https://www.facebook.com/shadman.sami.shanon" target="_blank" style="margin-right: 10px;" title="Facebook">
     <img src="https://img.shields.io/badge/Facebook-Shadman Sami Shanon-blue?style=flat-square&logo=facebook" alt="Facebook" height="22"/>
   </a>
-  <a href="https://codeforces.com/profile/.ShadowMan." target="_blank" title="Codeforces">
-    <img src="https://img.shields.io/badge/Codeforces-.ShadowMan.-blue?style=flat-square" alt="Codeforces" height="22"/>
+  <a href="https://codeforces.com/profile/ShadowMan18" target="_blank" title="Codeforces">
+    <img src="https://img.shields.io/badge/Codeforces-ShadowMan18-blue?style=flat-square" alt="Codeforces" height="22"/>
   </a>
 </div>
